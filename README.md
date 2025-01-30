@@ -1,9 +1,9 @@
 docker build 
 =============
-docker info
-docker build -t 20706215/employee-service:0.0.1 .
-docker run -dp 8081:8081 20706215/employee-service:0.0.1
-docker stop <<container_hash>> //to stop running container
+    docker info
+    docker build -t 20706215/employee-service:0.0.1 .
+    docker run -dp 8081:8081 20706215/employee-service:0.0.1
+    docker stop <<container_hash>> //to stop running container
 
 docker commands
 ====================
